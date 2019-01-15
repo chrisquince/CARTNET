@@ -19,7 +19,10 @@ cartnet5: 137.205.69.42
 cartnet6: 137.205.69.164
 cartnet7: 137.205.69.135
 cartnet8: 137.205.69.142
-
+cartnet9: 137.205.69.144
+cartnet10: 137.205.69.68
+cartnet11: 137.205.69.218
+cartnet12: 137.205.69.107
 ```
 
 We will start by creating a new sub-directory in Projects:
